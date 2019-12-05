@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+View this repository https://kgovardhan409.github.io/Blood_buddies/blood_buddies_bs_task.html
+
 You can use the [editor on GitHub](https://github.com/kgovardhan409/Blood_buddies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
